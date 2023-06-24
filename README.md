@@ -8,7 +8,7 @@ Nesse desafio, recebi o código com o projeto desenvolvido durante as aulas da F
 * CSS
 
 ## Figma do projeto
-[Explorer - Projeto 01](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01)
+[Explorer - Projeto 01 - Extra](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate)
 
 ## Projeto Publicado
-[Solução do desafio](https://scheiladev.github.io/explorer-stage02-p01/)
+[Solução do desafio](https://scheiladev.github.io/explorer-stage02-p01-extra/)
