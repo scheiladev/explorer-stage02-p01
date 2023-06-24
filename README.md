@@ -1,8 +1,7 @@
 # 💻 Sobre o desafio
 
-Nesse desafio, recebi o código com o projeto desenvolvido durante as aulas da Fase 01, porém o layout sofreu alterações, como pode ser visto na imagem abaixo.
+Nesse desafio, recebi o código com o projeto desenvolvido durante as aulas da Fase 01, porém o layout sofreu alterações, como pode ser visto na imagem abaixo. Minha missão é arrumar o código para que ele reflita o layout planejado, que pode ser visto na figma do projeto.
 ![Imagem 01](https://github.com/scheiladev/explorer-stage02-p01/assets/43575395/d68f7a09-86df-4df0-91bd-339b60f46787)
-Minha missão é arrumar o código para que ele reflita o layout planejado, que pode ser visto na figma do projeto.
 
 ## Tecnologias utilizadas:
 * HTML
